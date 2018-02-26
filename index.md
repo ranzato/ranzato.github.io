@@ -1,37 +1,14 @@
+## Brief Bio
+I am currently a research scientist and manager at the Facebook AI Research lab in New York City. 
+I am originally from Padova in Italy, where I graduated in Electronics Engineering. After spending several months at Caltech to work on my thesis, I started a Ph.D. in Computer Science at New York University with Yann LeCun in 2004. I graduated in 2009 and joined Geoffrey Hinton's lab as a postdoc. In 2011, I moved to industry and was one of the very early members of the Google Brain team. In 2013, I joined Facebook and was a founding member of the Facebook AI Research lab.
+
+I am generally interested in Machine Learning, Computer Vision, Natural Language Understanding and, more generally, Artificial Intelligence. 
+My long term endeavor is to enable machines to learn from weaker supervision and to efficiently tranfer knowledge across tasks, possibly leveraging the compositional structure present in nature.
+I have worked on learning feature hierarchies from natural images and videos in order to build object recognition systems, on learning models that can generate text for machine translation and summarization tasks, on acoustic modeling for speech recognition, and many other applications. I am interested in problems involving sequences and algorithms that can learn with limited supervision or that can leverage previously acquired knowledge.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ranzato/ranzato.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ranzato/ranzato.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
