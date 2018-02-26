@@ -6,9 +6,3 @@ I am generally interested in Machine Learning, Computer Vision, Natural Language
 My long term endeavor is to enable machines to learn from weaker supervision and to efficiently tranfer knowledge across tasks, possibly leveraging the compositional structure present in nature.
 I have worked on learning feature hierarchies from natural images and videos in order to build object recognition systems, on learning models that can generate text for machine translation and summarization tasks, on acoustic modeling for speech recognition, and many other applications. I am interested in problems involving sequences and algorithms that can learn with limited supervision or that can leverage previously acquired knowledge.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ranzato/ranzato.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
